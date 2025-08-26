@@ -1,4 +1,4 @@
-# Career Exploration Resource for Psychology Majors (Single Page)
+# Career Exploration Resource for Psychology Majors
 
 **Live Page:**  
 [https://michaelwoodc.github.io/Career-Exploration-Resource-for-Psychology-Majors/](https://michaelwoodc.github.io/Career-Exploration-Resource-for-Psychology-Majors/)
