@@ -8,7 +8,7 @@
 ## JSON File
 
 You can download the `.json` file here:  
-[Download jobs.json](https://michaelwoodc.github.io/Career-Exploration-Resource-for-Psychology-Majors-single-page/jobs.json)
+[Download jobs.json](https://michaelwoodc.github.io/Career-Exploration-Resource-for-Psychology-Majors/jobs.json)
 
 You can upload the `.json` file to the following tools:
 
