@@ -1,6 +1,14 @@
 # Career Exploration Resource for Psychology Majors (Single Page)
 
 **Live Page:**  
+
+NOTE: This page has been adopted by the Society For The Teaching Of Psychology, and will soon be transfered or archived.  Please reference their resource(s) at: 
+https://teachpsych.github.io/Career-Exploration-Resource-for-Psychology-Majors/
+
+Or:
+https://teachpsych.org/
+
+
 [https://michaelwoodc.github.io/Career-Exploration-Resource-for-Psychology-Majors-single-page/](https://michaelwoodc.github.io/Career-Exploration-Resource-for-Psychology-Majors-single-page/)
 
 ---
